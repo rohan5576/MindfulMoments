@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Daily Wisdom Quotes - 100+ Inspirational Mindfulness Quotes -->
+    
+    <!-- Mindfulness & Presence -->
+    <string name="wisdom_1">"The present moment is the only time over which we have dominion."</string>
+    <string name="wisdom_2">"Peace comes from within. Do not seek it without."</string>
+    <string name="wisdom_3">"Mindfulness is the aware, balanced acceptance of the present experience."</string>
+    <string name="wisdom_4">"In the midst of movement and chaos, keep stillness inside of you."</string>
+    <string name="wisdom_5">"The mind is everything. What you think you become."</string>
+    <string name="wisdom_6">"Happiness is not something ready-made. It comes from your own actions."</string>
+    <string name="wisdom_7">"Every morning we are born again. What we do today matters most."</string>
+    <string name="wisdom_8">"The only way to live is to accept each minute as an unrepeatable miracle."</string>
+    <string name="wisdom_9">"Mindfulness isn\'t difficult. We just need to remember to do it."</string>
+    <string name="wisdom_10">"Life is available only in the present moment."</string>
+    
+    <!-- Inner Peace & Calm -->
+    <string name="wisdom_11">"Calm mind brings inner strength and self-confidence."</string>
+    <string name="wisdom_12">"Peace is not the absence of chaos, but the presence of inner harmony."</string>
+    <string name="wisdom_13">"Your calm mind is the ultimate weapon against your challenges."</string>
+    <string name="wisdom_14">"In the midst of winter, I found there was within me an invincible summer."</string>
+    <string name="wisdom_15">"The quieter you become, the more you can hear."</string>
+    <string name="wisdom_16">"Serenity is not freedom from the storm, but peace within the storm."</string>
+    <string name="wisdom_17">"Inner peace begins the moment you choose not to allow another person or event to control your emotions."</string>
+    <string name="wisdom_18">"Peace comes from within. Do not seek it without."</string>
+    <string name="wisdom_19">"The mind is like water. When it\'s turbulent, it\'s difficult to see. When it\'s calm, everything becomes clear."</string>
+    <string name="wisdom_20">"Find peace in the midst of chaos."</string>
+    
+    <!-- Self-Discovery & Growth -->
+    <string name="wisdom_21">"The journey of a thousand miles begins with one step."</string>
+    <string name="wisdom_22">"Growth is the only evidence of life."</string>
+    <string name="wisdom_23">"You are never too old to set another goal or to dream a new dream."</string>
+    <string name="wisdom_24">"The only person you are destined to become is the person you decide to be."</string>
+    <string name="wisdom_25">"Change is the end result of all true learning."</string>
+    <string name="wisdom_26">"Every experience, no matter how bad it seems, holds within it a blessing of some kind."</string>
+    <string name="wisdom_27">"The wound is the place where the Light enters you."</string>
+    <string name="wisdom_28">"What you seek is seeking you."</string>
+    <string name="wisdom_29">"Your task is not to seek for love, but merely to seek and find all the barriers within yourself."</string>
+    <string name="wisdom_30">"The soul always knows what to do to heal itself."</string>
+    
+    <!-- Gratitude & Appreciation -->
+    <string name="wisdom_31">"Gratitude turns what we have into enough."</string>
+    <string name="wisdom_32">"When we focus on our gratitude, the tide of disappointment goes out and the tide of love rushes in."</string>
+    <string name="wisdom_33">"Gratitude is the fairest blossom which springs from the soul."</string>
+    <string name="wisdom_34">"The more grateful I am, the more beauty I see."</string>
+    <string name="wisdom_35">"Gratitude is riches. Complaint is poverty."</string>
+    <string name="wisdom_36">"Joy is the simplest form of gratitude."</string>
+    <string name="wisdom_37">"Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."</string>
+    <string name="wisdom_38">"In daily life we must see that it is not happiness that makes us grateful, but gratefulness that makes us happy."</string>
+    <string name="wisdom_39">"Gratitude is the healthiest of all human emotions."</string>
+    <string name="wisdom_40">"When you are grateful, fear disappears and abundance appears."</string>
+    
+    <!-- Love & Compassion -->
+    <string name="wisdom_41">"Love is the bridge between you and everything."</string>
+    <string name="wisdom_42">"Compassion is not a relationship between the healer and the wounded. It\'s a relationship between equals."</string>
+    <string name="wisdom_43">"The heart has reasons that reason does not understand."</string>
+    <string name="wisdom_44">"Love is the greatest refreshment in life."</string>
+    <string name="wisdom_45">"Where there is love there is life."</string>
+    <string name="wisdom_46">"Love is the only force capable of transforming an enemy into a friend."</string>
+    <string name="wisdom_47">"The more you love, the more you can love and the more intensely you can experience love."</string>
+    <string name="wisdom_48">"Love is the flower you\'ve got to let grow."</string>
+    <string name="wisdom_49">"Love is patient, love is kind. It does not envy, it does not boast, it is not proud."</string>
+    <string name="wisdom_50">"The greatest happiness of life is the conviction that we are loved."</string>
+    
+    <!-- Courage & Strength -->
+    <string name="wisdom_51">"Courage doesn\'t always roar. Sometimes courage is the quiet voice at the end of the day saying, \'I will try again tomorrow.\'"</string>
+    <string name="wisdom_52">"You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face."</string>
+    <string name="wisdom_53">"The only way to do great work is to love what you do."</string>
+    <string name="wisdom_54">"Strength does not come from the physical capacity. It comes from an indomitable will."</string>
+    <string name="wisdom_55">"Courage is resistance to fear, mastery of fear, not absence of fear."</string>
+    <string name="wisdom_56">"You are braver than you believe, stronger than you seem, and smarter than you think."</string>
+    <string name="wisdom_57">"The strongest hearts have the most scars."</string>
+    <string name="wisdom_58">"What lies behind us and what lies before us are tiny matters compared to what lies within us."</string>
+    <string name="wisdom_59">"The human spirit is stronger than anything that can happen to it."</string>
+    <string name="wisdom_60">"You have power over your mind - not outside events. Realize this, and you will find strength."</string>
+    
+    <!-- Patience & Timing -->
+    <string name="wisdom_61">"Patience is not the ability to wait, but the ability to keep a good attitude while waiting."</string>
+    <string name="wisdom_62">"Good things come to those who wait, but better things come to those who work for it."</string>
+    <string name="wisdom_63">"The two most powerful warriors are patience and time."</string>
+    <string name="wisdom_64">"Everything has its time and everything dies."</string>
+    <string name="wisdom_65">"Time is the most valuable coin in your life. You and you alone will determine how that coin will be spent."</string>
+    <string name="wisdom_66">"Patience is bitter, but its fruit is sweet."</string>
+    <string name="wisdom_67">"The key to everything is patience. You get the chicken by hatching the egg, not by smashing it."</string>
+    <string name="wisdom_68">"Time and patience are the strongest warriors."</string>
+    <string name="wisdom_69">"Patience is the companion of wisdom."</string>
+    <string name="wisdom_70">"All good things come to those who wait."</string>
+    
+    <!-- Simplicity & Clarity -->
+    <string name="wisdom_71">"Simplicity is the ultimate sophistication."</string>
+    <string name="wisdom_72">"The simplest things are often the truest."</string>
+    <string name="wisdom_73">"Less is more."</string>
+    <string name="wisdom_74">"Simplicity is the glory of expression."</string>
+    <string name="wisdom_75">"The greatest ideas are the simplest."</string>
+    <string name="wisdom_76">"Simplicity is the key to brilliance."</string>
+    <string name="wisdom_77">"The more complex the mind, the greater the need for simplicity."</string>
+    <string name="wisdom_78">"Simplicity is the final achievement."</string>
+    <string name="wisdom_79">"The simplest solution is usually the best one."</string>
+    <string name="wisdom_80">"Simplicity is the essence of happiness."</string>
+    
+    <!-- Nature & Connection -->
+    <string name="wisdom_81">"Look deep into nature, and then you will understand everything better."</string>
+    <string name="wisdom_82">"In nature, nothing is perfect and everything is perfect."</string>
+    <string name="wisdom_83">"Nature does not hurry, yet everything is accomplished."</string>
+    <string name="wisdom_84">"The earth has music for those who listen."</string>
+    <string name="wisdom_85">"Adopt the pace of nature: her secret is patience."</string>
+    <string name="wisdom_86">"Nature is not a place to visit. It is home."</string>
+    <string name="wisdom_87">"The clearest way into the Universe is through a forest wilderness."</string>
+    <string name="wisdom_88">"Study nature, love nature, stay close to nature. It will never fail you."</string>
+    <string name="wisdom_89">"Nature is the art of God."</string>
+    <string name="wisdom_90">"The poetry of the earth is never dead."</string>
+    
+    <!-- Wisdom & Knowledge -->
+    <string name="wisdom_91">"The only true wisdom is in knowing you know nothing."</string>
+    <string name="wisdom_92">"Knowledge speaks, but wisdom listens."</string>
+    <string name="wisdom_93">"Wisdom comes from experience, and experience comes from mistakes."</string>
+    <string name="wisdom_94">"The more you know, the more you realize you don\'t know."</string>
+    <string name="wisdom_95">"Wisdom is not a product of schooling but of the lifelong attempt to acquire it."</string>
+    <string name="wisdom_96">"The fool doth think he is wise, but the wise man knows himself to be a fool."</string>
+    <string name="wisdom_97">"Wisdom is the reward you get for a lifetime of listening when you\'d have preferred to talk."</string>
+    <string name="wisdom_98">"The beginning of wisdom is the fear of the Lord."</string>
+    <string name="wisdom_99">"Wisdom is the right use of knowledge."</string>
+    <string name="wisdom_100">"The older the fiddle, the sweeter the tune."</string>
+    
+    <!-- Additional Wisdom Quotes -->
+    <string name="wisdom_101">"Happiness is when what you think, what you say, and what you do are in harmony."</string>
+    <string name="wisdom_102">"The purpose of our lives is to be happy."</string>
+    <string name="wisdom_103">"Life is what happens when you\'re busy making other plans."</string>
+    <string name="wisdom_104">"Get busy living or get busy dying."</string>
+    <string name="wisdom_105">"You only live once, but if you do it right, once is enough."</string>
+    <string name="wisdom_106">"Many of life\'s failures are people who did not realize how close they were to success when they gave up."</string>
+    <string name="wisdom_107">"If you want to live a happy life, tie it to a goal, not to people or things."</string>
+    <string name="wisdom_108">"Never let the fear of striking out keep you from playing the game."</string>
+    <string name="wisdom_109">"Money and success don\'t change people; they merely amplify what is already there."</string>
+    <string name="wisdom_110">"The way to get started is to quit talking and begin doing."</string>
+    
+    <!-- More Inspirational Quotes -->
+    <string name="wisdom_111">"Success is not final, failure is not fatal: it is the courage to continue that counts."</string>
+    <string name="wisdom_112">"The future belongs to those who believe in the beauty of their dreams."</string>
+    <string name="wisdom_113">"It is during our darkest moments that we must focus to see the light."</string>
+    <string name="wisdom_114">"Whoever is happy will make others happy too."</string>
+    <string name="wisdom_115">"Do not go where the path may lead, go instead where there is no path and leave a trail."</string>
+    <string name="wisdom_116">"You will face many defeats in life, but never let yourself be defeated."</string>
+    <string name="wisdom_117">"The greatest glory in living lies not in never falling, but in rising every time we fall."</string>
+    <string name="wisdom_118">"In the end, it\'s not the years in your life that count. It\'s the life in your years."</string>
+    <string name="wisdom_119">"Life is really simple, but we insist on making it complicated."</string>
+    <string name="wisdom_120">"Spread love everywhere you go. Let no one ever come to you without leaving happier."</string>
+    
+    <!-- Mindfulness & Meditation Quotes -->
+    <string name="wisdom_121">"Meditation is not about stopping thoughts, but recognizing that we are more than our thoughts and our feelings."</string>
+    <string name="wisdom_122">"The mind is like a muscle - the more you exercise it, the stronger it gets."</string>
+    <string name="wisdom_123">"Meditation is the journey from sound to silence, from movement to stillness, from a limited identity to unlimited space."</string>
+    <string name="wisdom_124">"When you own your breath, nobody can steal your peace."</string>
+    <string name="wisdom_125">"Meditation is the art of doing nothing and letting everything happen."</string>
+    <string name="wisdom_126">"The mind is everything. What you think you become."</string>
+    <string name="wisdom_127">"Meditation is not a way of making your mind quiet. It is a way of entering into the quiet that is already there."</string>
+    <string name="wisdom_128">"Your mind is a garden. Your thoughts are the seeds. You can grow flowers or you can grow weeds."</string>
+    <string name="wisdom_129">"Meditation is the key to understanding yourself and the world around you."</string>
+    <string name="wisdom_130">"The present moment is filled with joy and happiness. If you are attentive, you will see it."</string>
+    
+    <!-- Final Inspirational Quotes -->
+    <string name="wisdom_131">"Be the change you wish to see in the world."</string>
+    <string name="wisdom_132">"Everything you\'ve ever wanted is on the other side of fear."</string>
+    <string name="wisdom_133">"The only impossible journey is the one you never begin."</string>
+    <string name="wisdom_134">"What you get by achieving your goals is not as important as what you become by achieving your goals."</string>
+    <string name="wisdom_135">"Believe you can and you\'re halfway there."</string>
+    <string name="wisdom_136">"It always seems impossible until it\'s done."</string>
+    <string name="wisdom_137">"The only limit to our realization of tomorrow will be our doubts of today."</string>
+    <string name="wisdom_138">"Don\'t watch the clock; do what it does. Keep going."</string>
+    <string name="wisdom_139">"The best way to predict the future is to create it."</string>
+    <string name="wisdom_140">"Success is walking from failure to failure with no loss of enthusiasm."</string>
+    
+    <!-- Additional Mindfulness Quotes -->
+    <string name="wisdom_141">"Mindfulness means being awake. It means knowing what you are doing."</string>
+    <string name="wisdom_142">"The practice of mindfulness begins in the small, remote cave of your unconscious mind and blossoms with the sunlight of your conscious life."</string>
+    <string name="wisdom_143">"Mindfulness is the miracle by which we master and restore ourselves."</string>
+    <string name="wisdom_144">"Mindfulness is the key to unlock the fullness of life."</string>
+    <string name="wisdom_145">"When you practice mindfulness, you become more aware of the present moment."</string>
+    <string name="wisdom_146">"Mindfulness is the art of conscious living."</string>
+    <string name="wisdom_147">"The practice of mindfulness is the practice of being fully alive."</string>
+    <string name="wisdom_148">"Mindfulness is the path to freedom."</string>
+    <string name="wisdom_149">"Through mindfulness, we can learn to live in the present moment."</string>
+    <string name="wisdom_150">"Mindfulness is the foundation of a happy life."</string>
+    
+    <!-- Final Wisdom Collection -->
+    <string name="wisdom_151">"Every day is a new beginning. Take a deep breath and start again."</string>
+    <string name="wisdom_152">"You are enough. You have enough. You do enough."</string>
+    <string name="wisdom_153">"The sun is a daily reminder that we too can rise again from the darkness."</string>
+    <string name="wisdom_154">"Your life is your message to the world. Make sure it\'s inspiring."</string>
+    <string name="wisdom_155">"The beauty of life is that it\'s unpredictable. Embrace the journey."</string>
+    <string name="wisdom_156">"You are never given a wish without also being given the power to make it come true."</string>
+    <string name="wisdom_157">"Life is not about waiting for the storm to pass but learning to dance in the rain."</string>
+    <string name="wisdom_158">"The greatest adventure is what lies ahead."</string>
+    <string name="wisdom_159">"Today is your day! Your mountain is waiting, so get on your way!"</string>
+    <string name="wisdom_160">"You have within you right now, everything you need to deal with whatever the world can throw at you."</string>
+    
+    <!-- Bonus Wisdom Quotes -->
+    <string name="wisdom_161">"The only way to do great work is to love what you do."</string>
+    <string name="wisdom_162">"Success is not the key to happiness. Happiness is the key to success."</string>
+    <string name="wisdom_163">"The journey of a thousand miles begins with one step."</string>
+    <string name="wisdom_164">"What you get by achieving your goals is not as important as what you become by achieving your goals."</string>
+    <string name="wisdom_165">"The future belongs to those who believe in the beauty of their dreams."</string>
+    <string name="wisdom_166">"It is during our darkest moments that we must focus to see the light."</string>
+    <string name="wisdom_167">"Whoever is happy will make others happy too."</string>
+    <string name="wisdom_168">"Do not go where the path may lead, go instead where there is no path and leave a trail."</string>
+    <string name="wisdom_169">"You will face many defeats in life, but never let yourself be defeated."</string>
+    <string name="wisdom_170">"The greatest glory in living lies not in never falling, but in rising every time we fall."</string>
+    
+    <!-- Final Collection -->
+    <string name="wisdom_171">"In the end, it\'s not the years in your life that count. It\'s the life in your years."</string>
+    <string name="wisdom_172">"Life is really simple, but we insist on making it complicated."</string>
+    <string name="wisdom_173">"Spread love everywhere you go. Let no one ever come to you without leaving happier."</string>
+    <string name="wisdom_174">"When you reach the end of your rope, tie a knot in it and hang on."</string>
+    <string name="wisdom_175">"Always remember that you are absolutely unique. Just like everyone else."</string>
+    <string name="wisdom_176">"Don\'t judge each day by the harvest you reap but by the seeds that you plant."</string>
+    <string name="wisdom_177">"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</string>
+    <string name="wisdom_178">"It is our choices that show what we truly are, far more than our abilities."</string>
+    <string name="wisdom_179">"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</string>
+    <string name="wisdom_180">"To the world you may be one person, but to one person you may be the world."</string>
+    
+    <!-- Ultimate Wisdom Collection -->
+    <string name="wisdom_181">"The only impossible journey is the one you never begin."</string>
+    <string name="wisdom_182">"What you get by achieving your goals is not as important as what you become by achieving your goals."</string>
+    <string name="wisdom_183">"Believe you can and you\'re halfway there."</string>
+    <string name="wisdom_184">"It always seems impossible until it\'s done."</string>
+    <string name="wisdom_185">"The only limit to our realization of tomorrow will be our doubts of today."</string>
+    <string name="wisdom_186">"Don\'t watch the clock; do what it does. Keep going."</string>
+    <string name="wisdom_187">"The best way to predict the future is to create it."</string>
+    <string name="wisdom_188">"Success is walking from failure to failure with no loss of enthusiasm."</string>
+    <string name="wisdom_189">"The mind is everything. What you think you become."</string>
+    <string name="wisdom_190">"Peace comes from within. Do not seek it without."</string>
+    
+    <!-- Final Wisdom Quotes -->
+    <string name="wisdom_191">"Every experience, no matter how bad it seems, holds within it a blessing of some kind."</string>
+    <string name="wisdom_192">"The wound is the place where the Light enters you."</string>
+    <string name="wisdom_193">"What you seek is seeking you."</string>
+    <string name="wisdom_194">"Your task is not to seek for love, but merely to seek and find all the barriers within yourself."</string>
+    <string name="wisdom_195">"The soul always knows what to do to heal itself."</string>
+    <string name="wisdom_196">"Gratitude turns what we have into enough."</string>
+    <string name="wisdom_197">"When we focus on our gratitude, the tide of disappointment goes out and the tide of love rushes in."</string>
+    <string name="wisdom_198">"Gratitude is the fairest blossom which springs from the soul."</string>
+    <string name="wisdom_199">"The more grateful I am, the more beauty I see."</string>
+    <string name="wisdom_200">"Gratitude is riches. Complaint is poverty."</string>
+</resources>
